@@ -1,11 +1,11 @@
 ---
 layout: document
-title: "Quick Start Guide to using Classic Theme on Windows 8/8.1 and 10"
+title: "Quick Start Guide to using Classic Theme on Windows 8/8.1, 10 and 11"
 ---
 
 # Quick Start Guide to using Classic Theme on Windows 8/8.1 and 10
 
-This is a quick guide to enable and use Classic theme on your Windows 8/8.1/10 installation. If you have issues or need help, please see the section below or if it’s unique, post it in the “Classic Theme Issues” section of the boards.
+This is a quick guide to enable and use Classic theme on your Windows 8/8.1/10/11 installation. If you have issues or need help, please see the section below or if it’s unique, post it in the “Classic Theme Issues” section of the boards.
 
 {% capture disclaimer %}
 Classic theme is deprecated by Microsoft and is no longer supported by them. Many elements have either become broken over the passage of time (e.g. the taskbar in Windows 10, context menus appearing empty) or issues have arisen such as newer programs not rendering properly. <b>In layman’s terms, Classic theme is old, and Microsoft have broken things over the course of development of Windows.</b> 
